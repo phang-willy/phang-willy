@@ -2,7 +2,7 @@
 ![Overall Statistics](https://github-readme-stats.vercel.app/api?username=phang-willy&theme=react&show_icons=true&count_private=true)
 
 # 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phang-willy&theme=react&layout=compact&include_all_commits=true&size_weight=0&count_weight=1&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phang-willy&layout=compact&theme=react&langs_count=10&include_all_commits=true)
 
 # 🔥 Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=phang-willy&theme=react&short_numbers=true&card_width=500&card_height=200)](https://git.io/streak-stats)
